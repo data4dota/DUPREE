@@ -1,2 +1,2 @@
 # DUPREE
-A project by Sagar Vinodababu and Swaroop Sharma
+Collaborators: Sagar Vinodababu and Swaroop Sharma
